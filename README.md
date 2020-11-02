@@ -1,6 +1,3 @@
-<!--
-**Daakopatel/Daakopatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm [Dako Patel!](http://dakaasdatameter.tech/) 👋
 
 
@@ -21,9 +18,6 @@
 
 Hi, I'm Dako Patel, a passionate self-taught Full Stack Developer from India. 
 
-<!-- I'm a fourth year IT student at [SOU!](http://silveroakuni.ac.in) -->
-
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -33,6 +27,5 @@ Hi, I'm Dako Patel, a passionate self-taught Full Stack Developer from India.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/php.svg"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dakopatel/dakopatel)
