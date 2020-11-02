@@ -1,7 +1,7 @@
 ### Hi there, I'm [Dako Patel!](http://dakaasdatameter.tech/) 👋
 
 
-<a href="https://stackoverflow.com/users/14123406/dako-patel">
+<a href="https://stackoverflow.com/story/dakopatel">
   <img align="left" alt="Dako Patel | Stackoverflow" width="20px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
 </a>
 
