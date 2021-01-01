@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Dako Patel, a passionate self-taught Full Stack Developer from India. 
+Hi, I'm Dako Patel, a passionate self-taught Mean Stack Developer from India. 
 
 **Languages and Tools:**  
 
