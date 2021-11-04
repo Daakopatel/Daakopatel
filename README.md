@@ -1,4 +1,4 @@
-### Hi there, I'm [Dako Patel!](http://dakaasdatameter.tech/) 👋
+### Hi there, I'm [Dako Patel!](https://dakasapps.com/) 👋
 
 
 <a href="https://stackoverflow.com/story/dakopatel">
